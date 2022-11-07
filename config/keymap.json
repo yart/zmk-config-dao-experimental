@@ -1,8 +1,5 @@
-{"layers":[
-  {
-    "name": "Dao of Rafael Yumagulov",
-    "author": "Art Jarocki"
-  },
+{
+  "layers":
   [
     {
       "y": 0.25,
@@ -1274,5 +1271,4 @@
     },
     "Esc\n\n\n\nRaise"
   ]
-]
 ]}
