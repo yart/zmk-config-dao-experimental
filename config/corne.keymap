@@ -27,39 +27,25 @@
     combos {
         compatible = "zmk,combos";
 
-        tab {
-            bindings = <&trans>;
-            key-positions = <2 3>;
+        kp_0 {
+            bindings = <&kp N0>;
+            key-positions = <6 18>;
+            layers = <0>;
         };
 
-        ctrl {
-            bindings = <&kp LCTRL>;
-            key-positions = <26 27>;
+        kp_1 {
+            bindings = <&kp N1>;
+            key-positions = <5 17>;
         };
 
-        cmd {
-            bindings = <&kp LCMD>;
-            key-positions = <37 38>;
+        kp_2 {
+            bindings = <&kp N2>;
+            key-positions = <7 19>;
         };
 
-        alt {
-            bindings = <&kp LEFT_ALT>;
-            key-positions = <39 40>;
-        };
-
-        shift {
-            bindings = <&kp LSHIFT>;
-            key-positions = <8 9>;
-        };
-
-        caps_word {
-            bindings = <&caps_word>;
-            key-positions = <17 18>;
-        };
-
-        delete {
-            bindings = <&kp DEL>;
-            key-positions = <32 33>;
+        kp_3 {
+            bindings = <&kp N3>;
+            key-positions = <4 16>;
         };
     };
 
