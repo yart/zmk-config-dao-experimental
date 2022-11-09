@@ -10,7 +10,7 @@ It's not that you _can't_ or are not welcome to, but as I made this is for
 demonstration purposes I've never actually tested it on a corne keyboard. You're
 just better off using the one that is provided in the ZMK repo.
 
-![Screenshot](screeenshot.png)
+![Screenshot](screenshot.png)
 
 
 [keymap-editor]:https://github.com/nickcoutsos/keymap-editor
