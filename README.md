@@ -1,4 +1,4 @@
-# Keymap Editor Demo - Corne
+# Keymap Editor Dao44
 
 This is a customization of the ZMK config for the Corne keyboard with machine
 readable layout and keymap definitions for use with my [keymap-editor] tool.
@@ -10,7 +10,7 @@ It's not that you _can't_ or are not welcome to, but as I made this is for
 demonstration purposes I've never actually tested it on a corne keyboard. You're
 just better off using the one that is provided in the ZMK repo.
 
-![Screenshot](screenshot.png)
+![Screenshot](2022-11-10_01-06.png)
 
 
 [keymap-editor]:https://github.com/nickcoutsos/keymap-editor
