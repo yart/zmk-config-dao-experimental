@@ -27,27 +27,67 @@
     combos {
         compatible = "zmk,combos";
 
-        kp_0 {
-            bindings = <&kp N0>;
-            key-positions = <6 18>;
+        kp_2 {
+            bindings = <&kp N2>;
+            key-positions = <7 20>;
             layers = <0>;
         };
 
         kp_1 {
             bindings = <&kp N1>;
-            key-positions = <5 17>;
+            key-positions = <6 19>;
+            layers = <0>;
         };
 
-        kp_2 {
-            bindings = <&kp N2>;
-            key-positions = <7 19>;
+        kp_4 {
+            bindings = <&kp N4>;
+            key-positions = <8 21>;
+            layers = <0>;
         };
 
         kp_3 {
             bindings = <&kp N3>;
-            key-positions = <4 16>;
+            key-positions = <5 18>;
+            layers = <0>;
+        };
+
+        kp_6 {
+            bindings = <&kp N6>;
+            key-positions = <9 22>;
+            layers = <0>;
+        };
+
+        kp_5 {
+            bindings = <&kp N5>;
+            key-positions = <4 17>;
+            layers = <0>;
+        };
+
+        kp_8 {
+            bindings = <&kp N8>;
+            key-positions = <10 23>;
+            layers = <0>;
+        };
+
+        kp_7 {
+            bindings = <&kp N7>;
+            key-positions = <3 16>;
+            layers = <0>;
+        };
+
+        kp_0 {
+            bindings = <&kp N0>;
+            key-positions = <11 24>;
+            layers = <0>;
+        };
+
+        kp_9 {
+            bindings = <&kp N9>;
+            key-positions = <2 15>;
+            layers = <0>;
         };
     };
+
 
     macros {
         zed_em_kay: zed_em_kay {
