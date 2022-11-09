@@ -9,8 +9,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include "../zmk-nodefree-config/helper.h"
 
-ZMK_UNICODE_SINGLE(euro_sign, N2, N0, A, C)
-
 / {
     behaviors {
         hm: homerow_mods {
